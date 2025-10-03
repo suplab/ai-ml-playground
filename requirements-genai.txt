@@ -1,0 +1,7 @@
+# LLMs & AI Agents
+langchain
+openai
+faiss-cpu
+
+# Utilities
+tqdm
