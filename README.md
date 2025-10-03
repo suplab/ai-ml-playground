@@ -1,7 +1,8 @@
-# ML, Python Basics, and Deep Learning Case Studies
+# 🧠 AI/ML Playground 
 
-A comprehensive repository that covers **Python fundamentals, machine learning algorithms, deep learning concepts, and real-world case studies**.  
-This repo is designed to be a **hands-on guide** for learners and practitioners who want to build strong foundations in **AI/ML** while also applying them to **practical problems**.
+A hands-on playground to explore **Python basics, AI/ML concepts, deep learning models, and practical case studies**.  
+This repo is a mix of **learning notes, experiments, and projects** — built step by step.  
+
 
 ---
 
@@ -32,6 +33,16 @@ cd ai_ml_playground
 python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run Jupyter Notebook
+```bash
+jupyter notebook
 ```
 
 
@@ -87,6 +98,15 @@ This repository uses a **modern AI/ML stack**:
 - Pretraining and Finetuning
 - LORA, QLORA, DPO
 - RAG
+
+
+---
+
+## 🌱 Learning Philosophy
+> "Learn by building, experiment by breaking, grow by doing."
+
+This repo is meant to evolve as I continue learning AI/ML and applying it to real-world problems.
+
 
 
 
